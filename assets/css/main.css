@@ -296,6 +296,9 @@ h5 {
   align-items: center;
 }
 .logo__img {
+  max-width: 223px;
+  width: 100%;
+  height: auto;
   @media (width <= 768px) {
     max-width: 146px;
   }
